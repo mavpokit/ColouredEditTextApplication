@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="INPUT_TYPE_TEXT">1</integer>
+    <integer name="INPUT_TYPE_PASSWORD">2</integer>
+    <integer name="INPUT_TYPE_NUMBER">3</integer>
+</resources>

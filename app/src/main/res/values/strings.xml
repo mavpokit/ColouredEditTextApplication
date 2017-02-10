@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="function1array">
+        <item>1 - dial and sms</item>
+        <item>2 - only sms</item>
+        <item>3 - only dial</item>
+    </string-array>
+
+</resources>
